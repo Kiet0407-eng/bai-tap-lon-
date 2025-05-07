@@ -115,8 +115,6 @@ pytesseract.pytesseract.tesseract_cmd = r'ĐƯỜNG_DẪN_TỚI_TESSERACT.EXE'
 
 ---
 
-## **Liên Hệ**
 
-Nếu bạn có bất kỳ câu hỏi nào hoặc gặp sự cố, đừng ngần ngại liên hệ với tôi qua email hoặc GitHub.
 
 
