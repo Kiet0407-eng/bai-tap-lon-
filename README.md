@@ -72,6 +72,7 @@ tra_cuu_phat_nguoi("99A53457", "Ô tô")  # Thay đổi biển số và loại p
 python BT-lon.py
 ```
 4. **Kết Quả**: Sau khi chương trình chạy, bạn sẽ thấy thông tin phạt nguội (nếu có) được in ra trong terminal.
+5. lịch chạy 6h sáng và 12h trưa hằng ngày
 
 ---
 
