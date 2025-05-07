@@ -63,7 +63,7 @@ Hãy thay đổi đường dẫn phù hợp với nơi bạn đã cài đặt Te
 ## **Hướng Dẫn Sử Dụng**
 
 1. **Tải Dự Án**: Tải hoặc sao chép mã nguồn từ dự án của bạn.
-2. **Cập nhật Biển Số Xe và Loại Phương Tiện**: Mở file `check_phat_nguoi.py` và thay đổi biển số xe cũng như loại phương tiện tại dòng dưới:
+2. **Cập nhật Biển Số Xe và Loại Phương Tiện**: Mở file `BT-lon.py` và thay đổi biển số xe cũng như loại phương tiện tại dòng dưới:
 ```python
 tra_cuu_phat_nguoi("99A53457", "Ô tô")  # Thay đổi biển số và loại phương tiện
 ```
